@@ -1,0 +1,54 @@
+body{
+    margin: 5px;
+    padding: 0;
+  }
+  
+  .bar {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .bar-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .bar-grey {
+    background-color: gray;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .blue-box {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+  }
+  
+  .bar-white{
+    background-color:white;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+
+  .bar-text {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 1.1em;
+      text-align:center;  
+  }
+  
+  .bar-blue {
+    background-color:blue;
+  }
+  
+  .bar-teal {
+    background-color:teal;
+  }
+  
+  .bar-green {
+    background-color:greenyellow;
+  }
+  
+  .bar-yellow {
+    background-color:yellow;
+  }
