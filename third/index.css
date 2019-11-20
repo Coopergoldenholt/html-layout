@@ -15,14 +15,16 @@ body{
   
   .bar-grey {
     background-color: gray;
-    padding: 25px;
     box-sizing: border-box;
+    padding-left:12px;
+    padding-top: 12px;
   }
   
   .blue-box {
     width: 75px;
     height: 75px;
     background-color: blue;
+    margin: auto 0;
   }
   
   .bar-white{
